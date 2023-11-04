@@ -9,7 +9,7 @@ Run these commands:
 `sudo apt install npm`
 
 
-`npm install`
+`npm install` or sudo npm install
 
 `node app.js`
 
